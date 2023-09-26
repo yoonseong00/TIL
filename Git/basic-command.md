@@ -41,3 +41,7 @@ git config --global user.name<'이름'>
 - `push`
     - `git push <원격저장소이름> <브렌치이름>`
     - 원격저장소에 브렌츠를 업로드
+
+- `pull`
+    -`git pull <원격저장소이름> <브렌치이름>`
+    -원격저장소에서 브렌치를 가져옴
